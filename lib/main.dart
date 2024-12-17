@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:hearts/contato.dart';
+import 'package:contatos/contato.dart';
 
 void main() {
   runApp(const MyApp());
